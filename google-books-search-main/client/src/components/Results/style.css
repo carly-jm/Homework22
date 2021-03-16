@@ -1,0 +1,38 @@
+.bookImg {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.result {
+  border-radius: 12px;
+  margin-top: 20px;
+  background-color: white;
+  box-shadow: 5px 5px 10px black;
+}
+
+.logo2 {
+  width: 200px;
+}
+
+.hideModal {
+  display: none;
+}
+
+.showModal {
+  display: block;
+}
+
+.modal {
+  text-align: center;
+  top: 25%;
+}
+
+.modal-content {
+  box-shadow: 5px 5px 10px black;
+  padding: 5px black solid;
+  background-color: rgb(72, 136, 244);
+  color: white;
+}
+.mainContent {
+  padding: 40px;
+}
